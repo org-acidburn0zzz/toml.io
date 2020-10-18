@@ -28,7 +28,7 @@
     "stimulus": "^1.1.1",
     "string-dasherize": "^1.0.0",
     "striptags": "^3.1.1",
-    "tailwindcss": "^1.4.6",
+    "tailwindcss": "^1.8.10",
     "webpack": "^4.43.0",
     "webpack-cli": "^3.3.12"
   },
